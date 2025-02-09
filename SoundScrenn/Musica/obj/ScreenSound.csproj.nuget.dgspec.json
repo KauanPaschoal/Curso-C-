@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kauan\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\ScreenSound.csproj": {}
+    "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\ScreenSound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kauan\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\ScreenSound.csproj": {
+    "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\ScreenSound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kauan\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\ScreenSound.csproj",
+        "projectUniqueName": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\ScreenSound.csproj",
         "projectName": "ScreenSound",
-        "projectPath": "C:\\Users\\Kauan\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\ScreenSound.csproj",
-        "packagesPath": "C:\\Users\\Kauan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kauan\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\obj\\",
+        "projectPath": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\ScreenSound.csproj",
+        "packagesPath": "C:\\Users\\kauan.dos.santos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Kauan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\kauan.dos.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,8 +40,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

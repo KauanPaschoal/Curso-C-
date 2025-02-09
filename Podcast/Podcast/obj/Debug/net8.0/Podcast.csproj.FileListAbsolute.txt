@@ -1,0 +1,15 @@
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Podcast\Podcast\bin\Debug\net8.0\Podcast.exe
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Podcast\Podcast\bin\Debug\net8.0\Podcast.deps.json
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Podcast\Podcast\bin\Debug\net8.0\Podcast.runtimeconfig.json
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Podcast\Podcast\bin\Debug\net8.0\Podcast.dll
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Podcast\Podcast\bin\Debug\net8.0\Podcast.pdb
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Podcast\Podcast\obj\Debug\net8.0\Podcast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Podcast\Podcast\obj\Debug\net8.0\Podcast.AssemblyInfoInputs.cache
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Podcast\Podcast\obj\Debug\net8.0\Podcast.AssemblyInfo.cs
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Podcast\Podcast\obj\Debug\net8.0\Podcast.csproj.CoreCompileInputs.cache
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Podcast\Podcast\obj\Debug\net8.0\Podcast.sourcelink.json
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Podcast\Podcast\obj\Debug\net8.0\Podcast.dll
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Podcast\Podcast\obj\Debug\net8.0\refint\Podcast.dll
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Podcast\Podcast\obj\Debug\net8.0\Podcast.pdb
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Podcast\Podcast\obj\Debug\net8.0\Podcast.genruntimeconfig.cache
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Podcast\Podcast\obj\Debug\net8.0\ref\Podcast.dll

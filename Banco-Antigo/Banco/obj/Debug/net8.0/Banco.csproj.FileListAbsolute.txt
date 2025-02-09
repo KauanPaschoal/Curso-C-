@@ -1,0 +1,5 @@
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Banco\Banco\obj\Debug\net8.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Banco\Banco\obj\Debug\net8.0\Banco.AssemblyInfoInputs.cache
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Banco\Banco\obj\Debug\net8.0\Banco.AssemblyInfo.cs
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Banco\Banco\obj\Debug\net8.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Banco\Banco\obj\Debug\net8.0\Banco.sourcelink.json

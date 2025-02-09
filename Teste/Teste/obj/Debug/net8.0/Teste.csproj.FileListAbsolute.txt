@@ -12,3 +12,6 @@ C:\Users\Kauan\source\repos\Teste\Teste\obj\Debug\net8.0\refint\Teste.dll
 C:\Users\Kauan\source\repos\Teste\Teste\obj\Debug\net8.0\Teste.pdb
 C:\Users\Kauan\source\repos\Teste\Teste\obj\Debug\net8.0\Teste.genruntimeconfig.cache
 C:\Users\Kauan\source\repos\Teste\Teste\obj\Debug\net8.0\ref\Teste.dll
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Teste\Teste\obj\Debug\net8.0\Teste.dll
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Teste\Teste\obj\Debug\net8.0\refint\Teste.dll
+C:\Users\kauan.dos.santos\Desktop\Curso-C-\Teste\Teste\obj\Debug\net8.0\Teste.pdb

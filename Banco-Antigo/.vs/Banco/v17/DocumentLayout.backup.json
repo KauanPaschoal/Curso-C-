@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Banco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0698F374-A716-4418-B080-59C91374AEAA}|Banco\\Banco.csproj|c:\\users\\kauan.dos.santos\\desktop\\curso-c-\\banco\\banco\\banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0698F374-A716-4418-B080-59C91374AEAA}|Banco\\Banco.csproj|solutionrelative:banco\\banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0698F374-A716-4418-B080-59C91374AEAA}|Banco\\Banco.csproj|c:\\users\\kauan.dos.santos\\desktop\\curso-c-\\banco\\banco\\banco\\caixaeletronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0698F374-A716-4418-B080-59C91374AEAA}|Banco\\Banco.csproj|solutionrelative:banco\\banco\\caixaeletronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0698F374-A716-4418-B080-59C91374AEAA}|Banco\\Banco.csproj|c:\\users\\kauan.dos.santos\\desktop\\curso-c-\\banco\\banco\\banco\\titular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0698F374-A716-4418-B080-59C91374AEAA}|Banco\\Banco.csproj|solutionrelative:banco\\banco\\titular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0698F374-A716-4418-B080-59C91374AEAA}|Banco\\Banco.csproj|c:\\users\\kauan.dos.santos\\desktop\\curso-c-\\banco\\banco\\banco\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0698F374-A716-4418-B080-59C91374AEAA}|Banco\\Banco.csproj|solutionrelative:banco\\banco\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0698F374-A716-4418-B080-59C91374AEAA}|Banco\\Banco.csproj|c:\\users\\kauan.dos.santos\\desktop\\curso-c-\\banco\\banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0698F374-A716-4418-B080-59C91374AEAA}|Banco\\Banco.csproj|solutionrelative:banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CaixaEletronico.cs",
+              "DocumentMoniker": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Banco\\Banco\\Banco\\CaixaEletronico.cs",
+              "RelativeDocumentMoniker": "Banco\\Banco\\CaixaEletronico.cs",
+              "ToolTip": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Banco\\Banco\\Banco\\CaixaEletronico.cs*",
+              "RelativeToolTip": "Banco\\Banco\\CaixaEletronico.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:11:37.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Titular.cs",
+              "DocumentMoniker": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Banco\\Banco\\Banco\\Titular.cs",
+              "RelativeDocumentMoniker": "Banco\\Banco\\Titular.cs",
+              "ToolTip": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Banco\\Banco\\Banco\\Titular.cs",
+              "RelativeToolTip": "Banco\\Banco\\Titular.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:11:34.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Banco\\Banco\\Banco\\Conta.cs",
+              "RelativeDocumentMoniker": "Banco\\Banco\\Conta.cs",
+              "ToolTip": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Banco\\Banco\\Banco\\Conta.cs",
+              "RelativeToolTip": "Banco\\Banco\\Conta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:10:50.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Banco\\Banco\\Banco\\Program.cs",
+              "RelativeDocumentMoniker": "Banco\\Banco\\Program.cs",
+              "ToolTip": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Banco\\Banco\\Banco\\Program.cs*",
+              "RelativeToolTip": "Banco\\Banco\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:10:49.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Banco\\Banco\\Program.cs",
+              "RelativeDocumentMoniker": "Banco\\Program.cs",
+              "ToolTip": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Banco\\Banco\\Program.cs",
+              "RelativeToolTip": "Banco\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:09:47.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

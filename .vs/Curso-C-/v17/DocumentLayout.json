@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SoundScrenn\\Musica\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\Album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SoundScrenn\\Musica\\Album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\ScreenSound.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SoundScrenn\\Musica\\ScreenSound.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\Musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SoundScrenn\\Musica\\Musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Programa\\concessionaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Programa\\concessionaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Teste\\Teste\\Teste.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\Teste\\Teste.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Programa\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Programa\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Teste\\Teste\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\Teste\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Teste\\Teste\\teste.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\Teste\\teste.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScreenSound.csproj",
+              "DocumentMoniker": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\ScreenSound.csproj",
+              "RelativeDocumentMoniker": "SoundScrenn\\Musica\\ScreenSound.csproj",
+              "ToolTip": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\ScreenSound.csproj",
+              "RelativeToolTip": "SoundScrenn\\Musica\\ScreenSound.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T12:31:55.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\Album.cs",
+              "RelativeDocumentMoniker": "SoundScrenn\\Musica\\Album.cs",
+              "ToolTip": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\Album.cs",
+              "RelativeToolTip": "SoundScrenn\\Musica\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:28:22.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teste.csproj",
+              "DocumentMoniker": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Teste\\Teste\\Teste.csproj",
+              "RelativeDocumentMoniker": "Teste\\Teste\\Teste.csproj",
+              "ToolTip": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Teste\\Teste\\Teste.csproj",
+              "RelativeToolTip": "Teste\\Teste\\Teste.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T12:13:19.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "concessionaria.cs",
+              "DocumentMoniker": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Programa\\concessionaria.cs",
+              "RelativeDocumentMoniker": "Programa\\concessionaria.cs",
+              "ToolTip": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Programa\\concessionaria.cs",
+              "RelativeToolTip": "Programa\\concessionaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:10:38.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\Program.cs",
+              "RelativeDocumentMoniker": "SoundScrenn\\Musica\\Program.cs",
+              "ToolTip": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\Program.cs",
+              "RelativeToolTip": "SoundScrenn\\Musica\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:05:45.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "carro.cs",
+              "DocumentMoniker": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Programa\\carro.cs",
+              "RelativeDocumentMoniker": "Programa\\carro.cs",
+              "ToolTip": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Programa\\carro.cs",
+              "RelativeToolTip": "Programa\\carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:02:25.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\Musica.cs",
+              "RelativeDocumentMoniker": "SoundScrenn\\Musica\\Musica.cs",
+              "ToolTip": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\SoundScrenn\\Musica\\Musica.cs",
+              "RelativeToolTip": "SoundScrenn\\Musica\\Musica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:28:29.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Teste\\Teste\\Program.cs",
+              "RelativeDocumentMoniker": "Teste\\Teste\\Program.cs",
+              "ToolTip": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Teste\\Teste\\Program.cs",
+              "RelativeToolTip": "Teste\\Teste\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:42:15.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "teste.cs",
+              "DocumentMoniker": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Teste\\Teste\\teste.cs",
+              "RelativeDocumentMoniker": "Teste\\Teste\\teste.cs",
+              "ToolTip": "C:\\Users\\kauan.dos.santos\\Desktop\\Curso-C-\\Teste\\Teste\\teste.cs",
+              "RelativeToolTip": "Teste\\Teste\\teste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:43:26.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

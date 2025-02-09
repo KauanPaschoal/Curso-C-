@@ -30,8 +30,8 @@
               "Title": "CaixaEletronico.cs",
               "DocumentMoniker": "C:\\Users\\Kauan\\Desktop\\Curso-C-\\Banco\\Banco\\Banco\\CaixaEletronico.cs",
               "RelativeDocumentMoniker": "Banco\\CaixaEletronico.cs",
-              "ToolTip": "C:\\Users\\Kauan\\Desktop\\Curso-C-\\Banco\\Banco\\Banco\\CaixaEletronico.cs*",
-              "RelativeToolTip": "Banco\\CaixaEletronico.cs*",
+              "ToolTip": "C:\\Users\\Kauan\\Desktop\\Curso-C-\\Banco\\Banco\\Banco\\CaixaEletronico.cs",
+              "RelativeToolTip": "Banco\\CaixaEletronico.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T17:44:23.706Z",
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Banco\\Conta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T17:42:56.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T17:42:56.798Z"
             },
             {
               "$type": "Document",
@@ -56,12 +55,11 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kauan\\Desktop\\Curso-C-\\Banco\\Banco\\Banco\\Program.cs",
               "RelativeDocumentMoniker": "Banco\\Program.cs",
-              "ToolTip": "C:\\Users\\Kauan\\Desktop\\Curso-C-\\Banco\\Banco\\Banco\\Program.cs*",
-              "RelativeToolTip": "Banco\\Program.cs*",
+              "ToolTip": "C:\\Users\\Kauan\\Desktop\\Curso-C-\\Banco\\Banco\\Banco\\Program.cs",
+              "RelativeToolTip": "Banco\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T17:39:49.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T17:39:49.477Z"
             }
           ]
         }

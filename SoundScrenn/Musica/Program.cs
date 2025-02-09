@@ -1,18 +1,28 @@
-﻿Musica musica1 = new Musica();
-musica1.nome = "Bohemian Rhapsody";
-musica1.artista = "Queen";
-musica1.duracao = 367;
-musica1.disponivel = true;
+﻿Banda queen = new Banda("Queen");
+
+Album albumQueen = new Album("A Night at opera");
+
+Musica musica1 = new Musica(queen, "Love of my Live")
+{
+    Duracao = 213,
+    Disponivel = true,
+};
 
 
+Musica musica2 = new Musica(queen, "Bohemian Rhapsody")
+{
+    Duracao = 354,
+    Disponivel = false,
+};
 
-Musica musica2 = new Musica();
-musica2.nome = "Stairway to Heaven";
-musica2.artista = "Led Zeppelin";
-musica2.duracao = 480;
-musica2.disponivel = false;
+    
+albumQueen.AdicionarMusica(musica1);
+albumQueen.AdicionarMusica(musica2);
 
 
+queen.AdicionarAlbum(albumQueen);
 
 musica1.ExibirFichaTecnica();
 musica2.ExibirFichaTecnica();
+queen.ExibirDiscografia();
+albumQueen.ExibirMusicasDoAlbum();
